@@ -5,11 +5,11 @@ A simple scraper used to collect news from CNN by parsing its RSS feeding. Write
 
 Simply run cnn_scrape.py
 
- Make sure you are connected to the Internet !!!
+* Make sure you are connected to the Internet !!!
 
- Make sure that "feedparser.py" is in the same folder with cnn_scrape.py
+* Make sure that "feedparser.py" is in the same folder with cnn_scrape.py
 
- Make sure you have beautifulsoup4 installed.
+* Make sure you have beautifulsoup4 installed.
 
 feedparser.py is used to parse the XML file of RSS.
 
